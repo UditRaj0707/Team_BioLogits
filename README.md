@@ -1,6 +1,6 @@
 # 🏆 Novartis NEST | National Winners
 
-Emerged as **National Winners** for our data-driven solution of the problem statement *"Utilizing data to predict recruitment rate (RR) in clinical trial for benchmarking"* among **34k+ teams** participating nation-wide.
+Emerged as **National Winners** for our data-driven solution of the problem statement (PS-4) *"Utilizing data to predict recruitment rate (RR) in clinical trial for benchmarking"* among **34k+ teams** participating nation-wide.
 
 ## 🔗 Links
 - **Grand Finale Result:** [View Results](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPCodIwVMQO-ls4Y_Uxnp8bpf2A8PokYzhJZVzsAyLZAIbdQvQkR-GiTa-2EbWdnE8uSy8P5KgCZgv/pubhtml)
